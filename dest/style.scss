@@ -1,0 +1,14 @@
+$black : #000000;
+$red : red;
+
+.item, .header{
+    display:flex;
+    border: 1px solid $red;
+}
+
+.item p, .header p{
+
+    flex-basis: 35%;
+}
+
+
